@@ -82,7 +82,7 @@ Take control of how your class properties are accessed and modified! You'll lear
 
 ### Static Members in OOP
 
-Static properties and methods belong to the class itself, not to instances. We'll show you how to declare and use `static` members in TypeScript effectively.
+Static properties and methods belong to the class itself, not to instances. 
 
 ### Polymorphism
 
@@ -95,10 +95,6 @@ Abstraction hides implementation details and exposes only essential features. Yo
 ### Encapsulation in OOP
 
 Encapsulation ensures that internal class details are hidden and protected. We’ll demonstrate how to implement encapsulation using private properties and access modifiers.
-
----
-
-With this knowledge, you can confidently build complex applications that are both maintainable and resilient. Keep practicing and experimenting with these concepts. The more you apply them, the more intuitive they will become!
 
 ---
 
