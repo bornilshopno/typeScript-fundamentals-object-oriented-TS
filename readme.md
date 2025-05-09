@@ -243,7 +243,7 @@ car1.displayInfo(); // Output: Toyota Corolla (2020)
 
 ## Inheritance in TypeScript
 
-**Inheritance** is a core principle of Object-Oriented Programming (OOP) that allows one class to inherit the properties and methods of another. This promotes **code reuse**, **organization**, and **scalability**.
+**Inheritance** is a core principle of Object-Oriented Programming (OOP) that allows one class(child) to inherit/belong the properties and methods of another(parent). This promotes **code reuse**, **organization**, and **scalability**.
 
 ---
 
