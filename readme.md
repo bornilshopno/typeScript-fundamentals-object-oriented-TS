@@ -1,7 +1,28 @@
-#  Object Oriented typescript
+#  Object Oriented Typescript
+Object-Oriented TypeScript is a programming paradigm that organises and models software by breaking into small modules.
+It applies object-oriented programming (OOP) principles—like classes, objects, inheritance, and encapsulation—using TypeScript’s strong typing system.
+## Key Concepts
+# Classes: 
+Define blueprints for creating objects.
+# Inheritance:
+Allows one class to extend another.
+# Encapsulation:
+Uses private, public, or protected keywords to control access.
+# Interfaces & Abstract Classes:
+Help define structure and enforce contracts.
+# Object Oriented Programming (OOP)
+OOP organises codes around objects, which are nstances of class defining data and behavior.
+in OOP-software is designed by modelining real-world entities as objects, each having attributes(data) and methods(functions) that operate on the data
+## Building Blocks of OOP
+Inheritence
+Polymorphism
+Abstraction
+Encapsulation
 
-This guide provides an overview of the key concepts in TypeScript, along with practical examples and detailed explanations. It covers the essentials of TypeScript, including data types, functions, destructuring, operators, and advanced types.
-
+## Benefits:
+Code reusability
+Better structure and maintainability
+Safer with static typing
 ---
 
 ## 🛠 TypeScript Project Setup
