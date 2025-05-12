@@ -1,4 +1,4 @@
-//inheritance==>> child uses properties and methods of parent
+//inheritance==>> child uses properties and methods of parent..deriving child function taking properties and methods from parent
 
 class Person {
     name:string;
