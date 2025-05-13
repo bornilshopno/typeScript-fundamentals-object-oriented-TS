@@ -1,4 +1,5 @@
 //instanceof guard
+// here instance of keyword is used to check
 
 class Animal2{
     name:string;
